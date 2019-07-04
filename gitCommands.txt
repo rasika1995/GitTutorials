@@ -1,2 +1,15 @@
-Git
-hi there
+
+task 1
+
+create a directory RAD
+go to the directory RAD
+create another directory call Module1
+go to the directory Module1
+create a file index.html
+add this file to your GitHub account
+Modify the index.html as a welcome page of your Module1
+if you have use any .css or .js files for the design
+create a directory resources inside Module1
+inside the resources create two directories css,js
+Move your .css and .js files inside those directory
+push all of your changes to your remote GitHub account
