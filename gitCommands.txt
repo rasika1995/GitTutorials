@@ -13,3 +13,8 @@ create a directory resources inside Module1
 inside the resources create two directories css,js
 Move your .css and .js files inside those directory
 push all of your changes to your remote GitHub account
+
+
+
+
+ratquysicpodc[es
